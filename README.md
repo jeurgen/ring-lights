@@ -16,4 +16,5 @@ Make your Philips Hue lights notify you of incoming calls.
 
 
 ## Run
+* Adjust the parameters in the Python Script. Path to your hue bridge, "key" and light-ids are required. 
 * linphonec | python lightring.py
